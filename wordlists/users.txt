@@ -1,0 +1,4 @@
+user
+nmsfadmin
+nadmin
+nroot
